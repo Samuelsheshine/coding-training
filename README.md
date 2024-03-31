@@ -3,16 +3,12 @@ Hi there!I am a beginner in programming and have always been passionate about so
 
 ###My Projects(karel game solution)
 
-＊[StepUp.]
-(https://github.com/Samuelsheshine/coding-training/blob/main/StepUp.py)＊
+＊[StepUp.](https://github.com/Samuelsheshine/coding-training/blob/main/StepUp.py)＊
 
-＊[BeeperRow.] 
-(https://github.com/Samuelsheshine/coding-training/blob/main/BeeperRow.py)＊
+＊[BeeperRow.](https://github.com/Samuelsheshine/coding-training/blob/main/BeeperRow.py)＊
 
-＊[advanced version.] 
-(https://github.com/Samuelsheshine/coding-training/blob/main/BeeperRowAdv.py)＊
+＊[advanced version.](https://github.com/Samuelsheshine/coding-training/blob/main/BeeperRowAdv.py)＊
 
-＊[PotholeFilling.] 
-(https://github.com/Samuelsheshine/coding-training/blob/main/PotholeFilling.py)＊
+＊[PotholeFilling.](https://github.com/Samuelsheshine/coding-training/blob/main/PotholeFilling.py)＊
 
-＊[Steeplechase.] (https://github.com/Samuelsheshine/coding-training/blob/main/Steeplechase.py)＊
+＊[Steeplechase.](https://github.com/Samuelsheshine/coding-training/blob/main/Steeplechase.py)＊
