@@ -13,4 +13,4 @@ Hi there!I am a beginner in programming and have always been passionate about so
 
 ＊[Steeplechase.](https://github.com/Samuelsheshine/coding-training/blob/main/Steeplechase.py)＊
 ##  The project which was done when I was a freshman in Ming Lung High School.
-
+＊[Probability calculation for confirmed COVID 19](https://github.com/Samuelsheshine/coding-training/blob/main/COVID.py)＊
